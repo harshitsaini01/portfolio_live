@@ -46,7 +46,7 @@ export default function Home() {
                 className="flex items-center gap-2 border-2 border-blue-600 text-blue-600 px-4 sm:px-5 py-2 sm:py-3 text-sm sm:text-base font-bold rounded-lg shadow-md hover:bg-blue-600 hover:text-white transition cursor-pointer"
               >
                 <FaComments />
-                Let&apos;s Connectt
+                Let&apos;s Connect
               </a>
             </div>
           </div>
