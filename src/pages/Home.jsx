@@ -39,7 +39,7 @@ export default function Home() {
                 className="flex items-center gap-2 bg-blue-600 text-white px-4 sm:px-5 py-2 sm:py-3 text-sm sm:text-base font-bold rounded-lg shadow-md hover:bg-blue-700 transition cursor-pointer"
               >
                 <FaFileDownload />
-                Download CV
+                Download 
               </a>
               <a
                 href="/contact"
