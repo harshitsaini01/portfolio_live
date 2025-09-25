@@ -29,7 +29,7 @@ export default function Home() {
             <p className="text-gray-600 text-sm sm:text-base md:text-lg mt-4 leading-relaxed max-w-xl">
               I build scalable web applications with modern tech stacks.
               Passionate about solving problems and delivering high-quality
-              software
+              software.
             </p>
 
             <div className="mt-6 flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
