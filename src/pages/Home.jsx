@@ -34,7 +34,7 @@ export default function Home() {
 
             <div className="mt-6 flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
               <a
-                href="/PRINCE.pdf"
+                href="/Harshit_resume.pdf"
                 download
                 className="flex items-center gap-2 bg-blue-600 text-white px-4 sm:px-5 py-2 sm:py-3 text-sm sm:text-base font-bold rounded-lg shadow-md hover:bg-blue-700 transition cursor-pointer"
               >

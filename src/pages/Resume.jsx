@@ -11,8 +11,8 @@ export default function Resume() {
 
     // Trigger actual download
     const link = document.createElement("a");
-    link.href = "/PRINCE.pdf"; // PDF in public folder
-    link.download = "PRINCE.pdf";
+    link.href = "/Harshit_resume.pdf"; // PDF in public folder
+    link.download = "Harshit_resume.pdf";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -47,7 +47,7 @@ export default function Resume() {
 
         {/* View Online */}
        <a
-          href="/PRINCE.pdf" 
+          href="/Harshit_resume.pdf" 
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 border-2 border-blue-500 hover:bg-blue-500 hover:text-white transition-colors text-blue-500 font-semibold px-6 py-3 rounded-2xl shadow-md cursor-pointer"
