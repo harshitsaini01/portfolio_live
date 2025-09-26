@@ -52,7 +52,7 @@ export default function Resume() {
           rel="noopener noreferrer"
           className="flex items-center gap-2 border-2 border-blue-500 hover:bg-blue-500 hover:text-white transition-colors text-blue-500 font-semibold px-6 py-3 rounded-2xl shadow-md cursor-pointer"
         >
-          <FaEye /> View Onl
+          <FaEye /> View On
         </a>
       </div>
 
