@@ -47,14 +47,9 @@ export default function ContactForm() {
     <section className="py-12" id="contact">
       <div className="max-w-xl mx-auto text-center px-6">
         <h2 className="text-2xl md:text-3xl font-bold text-gray-800 flex items-center justify-center gap-2">
-          📩 Contact me
+           Contact me
         </h2>
 
-        <div className="flex justify-center gap-6 text-2xl mt-8">
-          <span>🐙</span>
-          <span>🔗</span>
-          <span>🐦</span>
-        </div>
 
         <div className="mt-8 bg-gray-100 p-6 rounded-xl shadow-md">
           <form className="space-y-4" onSubmit={handleSubmit}>
