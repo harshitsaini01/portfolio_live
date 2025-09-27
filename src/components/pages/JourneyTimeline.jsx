@@ -15,7 +15,7 @@ export default function JourneyTimeline() {
     {
       year: "2024",
       title: "Founder and Developer - Webvetex",
-      desc: "Built MERN projects & explored AI tools.",
+      desc: "Custom software and website solutions.",
     },
    {
   year: "2023",
@@ -31,7 +31,7 @@ export default function JourneyTimeline() {
 {
   year: "2025",
   title: "Founder and Developer - Sarkariparcha 🤖",
-  desc: "Built MERN projects & explored AI tools.",
+  desc: "Student-focused exam preparation platform.",
 },
 
   ];
