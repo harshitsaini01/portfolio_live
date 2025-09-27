@@ -12,14 +12,25 @@ export default function JourneyTimeline() {
       title: "First React Project 🚀",
       desc: "Built a Health care website.",
     },
+    {
+      year: "2024",
+      title: "Founder and Developer - Webvetex",
+      desc: "Built MERN projects & explored AI tools.",
+    },
    {
   year: "2023",
-  title: "Web Dev Internship 💻",
-  desc: "6 weeks, real-time projects experience.",
+  title: "QA Test Engineer",
+  desc: "Globalstep, Pune.",
 },
 {
   year: "2024",
   title: "Haxways - MERN & AI 🤖",
+  desc: "Built MERN projects & explored AI tools.",
+},
+
+{
+  year: "2025",
+  title: "Founder and Developer - Sarkariparcha 🤖",
   desc: "Built MERN projects & explored AI tools.",
 },
 
