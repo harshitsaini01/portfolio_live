@@ -14,7 +14,7 @@ export default function Hero() {
           <span>🚀</span> My Tech Journey <span>💻</span>
         </h1>
         <p className="mt-4 text-lg md:text-xxl font-bold text-gray-600">
-          My journey, my challenges, my solution
+          My journey, my challenges, my solutions
         </p>
       </div>
 
