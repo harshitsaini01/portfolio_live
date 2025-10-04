@@ -14,7 +14,7 @@ export default function StatsAchievements() {
       <div className="max-w-5xl mx-auto text-center px-6">
         {/* Heading */}
         <h2 className="text-2xl md:text-3xl font-bold text-gray-800 flex items-center justify-center gap-2">
-          📊 Stats & Achievements
+           Stats & Achievements
         </h2>
 
         {/* Stats Cards */}

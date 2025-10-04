@@ -7,7 +7,7 @@ export default function Blog() {
  <ShootingStars />
 </div>
       <h1 className="text-2xl md:text-[50px]  font-bold text-gray-900 flex items-center justify-center gap-3">
-      Thoughts, Tips & Code Snippets <span>💡</span>
+      Thoughts, Tips & Code Snippets <span></span>
       </h1>
       <p className="mt-4 text-2xl md:text-xxl font-bold text-gray-600">
        Insights, tutorials & personal dev notes

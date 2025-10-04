@@ -11,7 +11,7 @@ export default function Hero() {
       {/* Hero Text */}
       <div className="m-[100px]">
         <h1 className="text-2xl md:text-[50px] font-bold text-gray-900 flex items-center justify-center gap-3">
-          <span>🚀</span> My Tech Journey <span>💻</span>
+          <span></span> My Tech Journey <span></span>
         </h1>
         <p className="mt-4 text-lg md:text-xxl font-bold text-gray-600">
           My journey, my challenges, my solutions

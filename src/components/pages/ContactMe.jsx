@@ -97,7 +97,7 @@ export default function ContactForm() {
               className="w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-[8px] rounded-lg transition-all"
               disabled={loading}
             >
-              {loading ? "Sending..." : "Send Message 🚀"}
+              {loading ? "Sending..." : "Send Message "}
             </button>
           </form>
         </div>

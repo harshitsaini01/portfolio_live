@@ -4,12 +4,12 @@ export default function JourneyTimeline() {
   const timeline = [
     {
       year: "2021",
-      title: "Started Coding 💻",
+      title: "Started Coding ",
       desc: "Learned Javascript & React Basics.",
     },
     {
       year: "2023",
-      title: "First React Project 🚀",
+      title: "First React Project ",
       desc: "Built a Health care website.",
     },
     {
@@ -24,13 +24,13 @@ export default function JourneyTimeline() {
 },
 {
   year: "2024",
-  title: "Haxways - MERN & AI 🤖",
+  title: "Haxways - MERN & AI ",
   desc: "Built MERN projects & explored AI tools.",
 },
 
 {
   year: "2025",
-  title: "Founder and Developer - Sarkariparcha 🤖",
+  title: "Founder and Developer - Sarkariparcha ",
   desc: "Student-focused exam preparation platform.",
 },
 
@@ -41,7 +41,7 @@ export default function JourneyTimeline() {
       <div className="max-w-7xl mx-auto px-6">
         {/* Heading */}
         <h2 className="text-2xl md:text-3xl font-bold text-gray-800 text-center flex items-center justify-center gap-2">
-          📅 My Journey in Tech
+           My Journey in Tech
         </h2>
 
         {/* Timeline */}
