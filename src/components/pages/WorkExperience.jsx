@@ -97,7 +97,7 @@ export default function WorkExperience() {
             transition={{ duration: 0.7 }}
             viewport={{ once: true }}
           >
-            <h3 className="text-xl font-semibold mb-6">💻 Tech Stack</h3>
+            <h3 className="text-xl font-semibold mb-6"> Tech Stack</h3>
             <div className="grid grid-cols-4 gap-6">
               {techStack.map((tech, idx) => (
                 <motion.div

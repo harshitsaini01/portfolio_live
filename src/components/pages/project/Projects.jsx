@@ -72,7 +72,7 @@ export default function Projects() {
       <div className="max-w-7xl mx-auto">
         <h2 className="text-[50px] md:text-4xl font-bold text-center text-gray-800">
           <span className="inline-flex items-center gap-2">
-            <span className="inline-block rotate-12 ">🛠️</span> Projects
+            <span className="inline-block rotate-12 "></span> Projects
           </span>
         </h2>
           <h3 className="text-[20px] font-medium text-center mt-2 text-gray-500">Here are a few projects I've worked on recently.</h3>

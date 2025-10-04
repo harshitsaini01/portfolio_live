@@ -3,9 +3,9 @@ import React from "react";
 export default function StatsAchievements() {
   const stats = [
     { value: "1.5+ ", label: "Years of Experience" },
-    { value: "5 +", label: "Projects Completed" },
-    { value: "2", label: "Companies Worked" },
-    { value: "2000 +", label: "GitHub Commits" },
+    { value: "10 +", label: "Projects Completed" },
+    { value: "4", label: "Companies Worked" },
+    { value: "500 +", label: "GitHub Commits" },
     // { value: "10 +", label: "SaaS Ideas in Progress" },
   ];
 
