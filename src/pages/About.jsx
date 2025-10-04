@@ -64,7 +64,7 @@ export default function Hero() {
               <div className="bg-gradient-to-r from-purple-200 to-purple-100 p-6 rounded-xl shadow-md">
                 <h3 className="font-bold text-lg mb-2">Open Source</h3>
                 <p className="text-gray-600 text-md">
-                  Contributing to modern JavaScript and React developmen
+                  Contributing to modern JavaScript and React development
                 </p>
               </div>
 
