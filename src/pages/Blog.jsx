@@ -10,7 +10,7 @@ export default function Blog() {
       Thoughts, Tips & Code Snippets <span></span>
       </h1>
       <p className="mt-4 text-2xl md:text-xxl font-bold text-gray-600">
-       Insights, tutorials & personal dev notes
+       Insights, tutorials & personal dev notes.
       </p>
     </section>
   );

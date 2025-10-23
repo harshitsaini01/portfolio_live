@@ -6,7 +6,6 @@ export default function StatsAchievements() {
     { value: "10 +", label: "Projects Completed" },
     { value: "4", label: "Companies Worked" },
     { value: "500 +", label: "GitHub Commits" },
-    // { value: "10 +", label: "SaaS Ideas in Progress" },
   ];
 
   return (

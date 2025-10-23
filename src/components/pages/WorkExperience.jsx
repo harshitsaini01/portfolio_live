@@ -50,17 +50,18 @@ export default function WorkExperience() {
     {
       title: "Full Stack Developer",
       company: "Haxways",
-      period: "Nov 2023 - Present · 1 yr 7 months",
+      period: "April 2024 - Present · 1 yr 7 months",
       location: "Chhutmalpur, Uttar Pradesh · On-site",
       color: "bg-gradient-to-r from-blue-50 to-green-200",
     },
     {
-      title: "Web Development Intern ",
-      company: "Techonical Infotech",
-      period: "July 2023 - Aug 2023 · 6 Weeks",
-      location: "Roorkee, Haridwar, India · On-site",
+      title: "QA Test Engineer ",
+      company: "Globalstep",
+      period: "Oct 2023 - April 2024 · 6 Months",
+      location: "Pune, Maharashtra , India · On-side",
       color: "bg-gradient-to-r from-blue-100 to-yellow-200",
     },
+
   ];
 
   const stats = [
